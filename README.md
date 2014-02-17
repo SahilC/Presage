@@ -1,4 +1,4 @@
 Presage
 =======
 
-A TeamCAND initative. 
+A TeamCAND initiative. 
